@@ -3,3 +3,5 @@ pandas
 nltk
 python-Levenshtein
 tqdm
+jupyter
+jupyter-resource-usage
