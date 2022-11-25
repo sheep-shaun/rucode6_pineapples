@@ -1,0 +1,15 @@
+numpy
+hyperopt
+catboost
+pandas
+geopy
+matplotlib
+shap
+scipy
+tqdm
+torch
+torchvision
+albumentations
+opencv-python
+seaborn
+typing
