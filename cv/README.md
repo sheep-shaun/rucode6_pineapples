@@ -1,8 +1,9 @@
 # RuCode 6.0 CV
 Task: Classification of car colour
 ## Download items from links and extract them to folder with notebooks:
-* [Dataset](https://drive.google.com/file/d/1kWHWzBpxK_5z4H6w30fYponeBHRViu-k/view?usp=share_link)
+* [Public Dataset](https://drive.google.com/file/d/1kWHWzBpxK_5z4H6w30fYponeBHRViu-k/view?usp=share_link)
 * [Trained Models](https://drive.google.com/file/d/1U9cUMMZiPDvuUKrHXj_Q35IjrCyvrsDa/view?usp=share_link)
+* [Private Dataset](https://drive.google.com/file/d/1HXnafUu0l6MzeubgbK4ZUHcxhCJH0RO5/view?usp=share_link)
 
 
 ## To start a notebook with a solution, it is enough to write:
