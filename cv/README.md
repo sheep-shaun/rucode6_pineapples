@@ -9,7 +9,7 @@ Task: Classification of car colour
 ```bash
 jupyter notebook
 ```
-### TO CORRECTLY BE ABLE TO TRAIN AND PREDICT YOU SHOULD UNSTALL NVIDIA'S CUDA AND PYTORCH WITH CUDA ENABLED!!!
+### TO CORRECTLY BE ABLE TO TRAIN AND PREDICT YOU SHOULD INSTALL NVIDIA'S CUDA AND PYTORCH WITH CUDA ENABLED!!!
 Then start the Predict.ipynb notebook
 
 ## If some libraries are not installed, run
